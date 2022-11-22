@@ -4,6 +4,8 @@ Created for a lunch & learn talk.
 
 ![Screenshot](public/screenshot.png)
 
+Game assets courtesy of [Kenney Game Assets](https://www.kenney.nl/). https://www.kenney.nl/assets/platformer-pack-redux
+
 ## Get Started
 
 Clone the repo and install dependencies.
